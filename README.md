@@ -11,7 +11,10 @@
 <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  
 </div><br/>
 
-Curso Desenvolvimento de Software Multiplataforma, proucro sempre aperfeiçoar minhas habilidades no ramo da tecnologia 😉.
+•🎓 Técnico em Desenvolvimento de Sistemas (Etec)
+•🎓 Cursando Tecncologo em Desenvolvimento Software Multiplataforma (Fatec)
+
+Proucro sempre aperfeiçoar minhas habilidades no ramo da tecnologia 😉.
 
 <!--
 **Guh1254/Guh1254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
