@@ -12,6 +12,7 @@
 </div><br/>
 
 •🎓 Técnico em Desenvolvimento de Sistemas (Etec)
+<br/>
 •🎓 Cursando Tecncologo em Desenvolvimento Software Multiplataforma (Fatec)
 
 Proucro sempre aperfeiçoar minhas habilidades no ramo da tecnologia 😉.
